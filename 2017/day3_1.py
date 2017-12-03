@@ -14,4 +14,7 @@ while (x > (y/4)):
     i -= (y/4)
     x = i - a
 
+if (x < count):
+    x = count + (count-x)
+
 print(x)
