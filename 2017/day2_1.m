@@ -1,4 +1,4 @@
-M = dlmread('input.txt');
+M = dlmread('input2.txt');
 
 sum = 0;
 for i = 1:16
